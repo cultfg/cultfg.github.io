@@ -489,12 +489,7 @@
         <div class="blob b3"></div>
     </div>
     <canvas id="stars"></canvas>
-    <div id="bgVideo" class="preview-vids">
-        <video id="prev-vid" style="width: inherit;height: inherit;" autoplay muted playsinline>
-            <source src="./static/videos/1.mp4" type="video/mp4">
-        </video>
-    </div>
-
+    
     <header class="site-header" role="banner">
         <div class="brand">
             <div class="logo" aria-hidden="true">
@@ -820,19 +815,6 @@
         if (index >= colors.length) index = colors.length - 1;
 
         document.documentElement.style.setProperty('--scroll-thumb', colors[index]);
-    });
-
-    const video = document.getElementById('prev-vid');
-    const sources = ['./static/videos/1.mp4', './static/videos/2.mp4', './static/videos/3.mp4'];
-    let currentIndex = 0;
-
-    video.addEventListener('ended', () => {
-        currentIndex++;
-        if (currentIndex >= sources.length) {
-            currentIndex = 0;
-        }
-        video.src = sources[currentIndex];
-        video.play();
     });
 </script>
 
