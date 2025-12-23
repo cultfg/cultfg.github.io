@@ -106,7 +106,7 @@
             <a href="../index.html">Home</a>
             <a href="../index.html#features">Features</a>
             <a href="../index.html#download">Download</a>
-            <a href="../community/index.html">Community</a>
+            <a href="../docs/index.html">Documentation</a>
         </nav>
 
         <button class="btn" onclick="location.href='../index.html#download'">

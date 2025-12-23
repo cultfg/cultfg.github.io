@@ -1,0 +1,126 @@
+
+    <!-- MAIN CONTENT -->
+    <main class="community-wrapper">
+
+        <h1 class="page-title">CultForge Documentation</h1>
+
+        <p class="page-subtitle    ">
+            A community-based game launcher for Minecraft, focused on leaderboards,
+            missions, and realistic graphics.
+        </p>
+    </br>
+        <!-- INTRODUCTION -->
+        <div class="card community-card">
+            <h3>Introduction</h3>
+            <p class="sub-title">
+                CultForge is a community-driven Minecraft launcher that offers more than just starting
+                the game — it fosters a fully synchronized, immersive multiplayer experience. By integrating
+                mods, shaders, and resource packs that are pre-configured and seamlessly synced with server
+                settings and live status, CultForge enables players to enjoy a consistent and engaging gameplay
+                environment. Whether you're competing on leaderboards, collaborating on missions, or simply
+                exploring, CultForge brings the community together with cutting-edge features designed for
+                today's Minecraft enthusiasts.
+            </p>
+        </div>
+    </br>
+        <!-- MAIN FEATURES -->
+        <div class="card">
+            <h3>Main Features</h3>
+            <ul class="icon-list">
+                <li>
+                    <span class="icon"><img src="../static/images/podium.png" alt=""></span>
+                    Mission-based gameplay and real community leaderboards for competition and collaboration.
+                </li>
+                <li>
+                    <span class="icon"><img src="../static/images/podium.png" alt=""></span>
+                    Automatic sync for all mods, shaders, and resource packs between launcher and server.
+                </li>
+                <li>
+                    <span class="icon"><img src="../static/images/podium.png" alt=""></span>
+                    Live server status displayed in the launcher for instant multiplayer access.
+                </li>
+                <li>
+                    <span class="icon"><img src="../static/images/podium.png" alt=""></span>
+                    Easy-to-use interface compatible with Windows (ARM & x86).
+                </li>
+                <li>
+                    <span class="icon"><img src="../static/images/podium.png" alt=""></span>
+                    Premium graphics with shaders and high-quality texture packs.
+                </li>
+            </ul>
+        </div>
+    </br>
+        <!-- GETTING STARTED -->
+        <div class="card">
+            <h3>Getting Started</h3>
+            <ol class="icon-list">
+                <li>
+                    <span class="icon"><img src="../static/images/podium.png" alt=""></span>
+                    Download CultForge from the official site or via the Get CultForge button.
+                </li>
+                <li>
+                    <span class="icon"><img src="../static/images/podium.png" alt=""></span>
+                    Install the launcher and follow the guided setup.
+                </li>
+                <li>
+                    <span class="icon"><img src="../static/images/podium.png" alt=""></span>
+                    Sign in or create your player profile.
+                </li>
+                <li>
+                    <span class="icon"><img src="../static/images/podium.png" alt=""></span>
+                    Launch Minecraft through CultForge to ensure everything is synced.
+                </li>
+            </ol>
+        </div>
+        </br>
+        <!-- COMMUNITY FEATURES -->
+        <div class="card">
+            <h3>Community Features</h3>
+            <ul class="icon-list">
+                <li>
+                    <span class="icon"><img src="../static/images/podium.png" alt=""></span>
+                    Join competitive and cooperative missions.
+                </li>
+                <li>
+                    <span class="icon"><img src="../static/images/podium.png" alt=""></span>
+                    Track achievements and rankings in real time.
+                </li>
+                <li>
+                    <span class="icon"><img src="../static/images/podium.png" alt=""></span>
+                    Participate in server events and updates.
+                </li>
+            </ul>
+        </div>
+        </br>
+        <!-- SYSTEM REQUIREMENTS -->
+        <div class="card">
+            <h3>System Requirements</h3>
+            <ul class="icon-list">
+                <li>
+                    <span class="icon"><img src="../static/images/podium.png" alt=""></span>
+                    <strong>Operating System:</strong> Windows (ARM & x86)
+                </li>
+                <li>
+                    <span class="icon"><img src="../static/images/podium.png" alt=""></span>
+                    <strong>Internet:</strong> Required for syncing mods and multiplayer
+                </li>
+                <li>
+                    <span class="icon"><img src="../static/images/podium.png" alt=""></span>
+                    <strong>Minecraft:</strong> Java Edition (latest recommended)
+                </li>
+            </ul>
+        </div>
+
+    </main>
+    <!-- FOOTER -->
+     <footer class="footer-main">
+            © 2025 CultForge Community. All rights reserved.
+        </br>
+            Made with ❤️ by the CultForge Team
+    </footer>
+
+    <!-- GLOBAL EFFECTS -->
+    <script src="../static/js/effects.js"></script>
+
+</body>
+</html>
